@@ -1,0 +1,4 @@
+Extra parameter(s) specified: "/home/stefan/Desktop/Bioinformatics/project2/rawdata/genomic_files/GCF_000002735.4_TAIR20.2_genomic.8.ht2"
+Error: Encountered internal HISAT2 exception (#1)
+Command: /usr/bin/hisat2-align-s --wrapper basic-0 -p 8 -x /home/stefan/Desktop/Bioinformatics/project1/rawdata/genomic_files/GCF_000001735.4_TAIR10.1_genomic.fna -S /home/stefan/Desktop/Bioinformatics/project1/data/aligned/.sam /home/stefan/Desktop/Bioinformatics/project1/rawdata/genomic_files/GCF_000001735.4_TAIR10.1_genomic.8.ht2 /home/stefan/Desktop/Bioinformatics/project2/rawdata/genomic_files/GCF_000002735.4_TAIR20.2_genomic.8.ht2 
+(ERR): hisat2-align exited with value 1

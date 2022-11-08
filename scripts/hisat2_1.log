@@ -1,0 +1,144 @@
+f1 = /home/stefan/Desktop/Bioinformatics/project1/rawdata/genomic_files/GCF_000001735.4_TAIR10.1_genomic.1.ht2
+f2 = /home/stefan/Desktop/Bioinformatics/project2/rawdata/genomic_files/GCF_000002735.4_TAIR20.2_genomic.2.ht2
+dir = /home/stefan/Desktop/Bioinformatics/project1/scripts
+genome = /home/stefan/Desktop/Bioinformatics/project1/rawdata/genomic_files/GCF_000001735.4_TAIR10.1_genomic.fna.gz
+outdir: /home/stefan/Desktop/Bioinformatics/project1/data/aligned 
+basename: missing operand
+Try 'basename --help' for more information.
+basename = 
+outfile = GCF 
+[E::hts_open_format] Failed to open file "/home/stefan/Desktop/Bioinformatics/project1/data/aligned/GCF.sam" : No such file or directory
+samtools view: failed to open "/home/stefan/Desktop/Bioinformatics/project1/data/aligned/GCF.sam" for reading: No such file or directory
+rm: cannot remove '/home/stefan/Desktop/Bioinformatics/project1/data/aligned/GCF.sam': No such file or directory
+f1 = /home/stefan/Desktop/Bioinformatics/project1/rawdata/genomic_files/GCF_000001735.4_TAIR10.1_genomic.2.ht2
+f2 = /home/stefan/Desktop/Bioinformatics/project2/rawdata/genomic_files/GCF_000002735.4_TAIR20.2_genomic.2.ht2
+dir = /home/stefan/Desktop/Bioinformatics/project1/scripts
+genome = /home/stefan/Desktop/Bioinformatics/project1/rawdata/genomic_files/GCF_000001735.4_TAIR10.1_genomic.fna.gz
+outdir: /home/stefan/Desktop/Bioinformatics/project1/data/aligned 
+basename: missing operand
+Try 'basename --help' for more information.
+basename = 
+outfile = GCF 
+[E::hts_open_format] Failed to open file "/home/stefan/Desktop/Bioinformatics/project1/data/aligned/GCF.sam" : No such file or directory
+samtools view: failed to open "/home/stefan/Desktop/Bioinformatics/project1/data/aligned/GCF.sam" for reading: No such file or directory
+rm: cannot remove '/home/stefan/Desktop/Bioinformatics/project1/data/aligned/GCF.sam': No such file or directory
+f1 = /home/stefan/Desktop/Bioinformatics/project1/rawdata/genomic_files/GCF_000001735.4_TAIR10.1_genomic.3.ht2
+f2 = /home/stefan/Desktop/Bioinformatics/project2/rawdata/genomic_files/GCF_000002735.4_TAIR20.2_genomic.3.ht2
+dir = /home/stefan/Desktop/Bioinformatics/project1/scripts
+genome = /home/stefan/Desktop/Bioinformatics/project1/rawdata/genomic_files/GCF_000001735.4_TAIR10.1_genomic.fna.gz
+outdir: /home/stefan/Desktop/Bioinformatics/project1/data/aligned 
+basename: missing operand
+Try 'basename --help' for more information.
+basename = 
+outfile = GCF 
+[E::hts_open_format] Failed to open file "/home/stefan/Desktop/Bioinformatics/project1/data/aligned/GCF.sam" : No such file or directory
+samtools view: failed to open "/home/stefan/Desktop/Bioinformatics/project1/data/aligned/GCF.sam" for reading: No such file or directory
+rm: cannot remove '/home/stefan/Desktop/Bioinformatics/project1/data/aligned/GCF.sam': No such file or directory
+f1 = /home/stefan/Desktop/Bioinformatics/project1/rawdata/genomic_files/GCF_000001735.4_TAIR10.1_genomic.4.ht2
+f2 = /home/stefan/Desktop/Bioinformatics/project2/rawdata/genomic_files/GCF_000002735.4_TAIR20.2_genomic.4.ht2
+dir = /home/stefan/Desktop/Bioinformatics/project1/scripts
+genome = /home/stefan/Desktop/Bioinformatics/project1/rawdata/genomic_files/GCF_000001735.4_TAIR10.1_genomic.fna.gz
+outdir: /home/stefan/Desktop/Bioinformatics/project1/data/aligned 
+basename: missing operand
+Try 'basename --help' for more information.
+basename = 
+outfile = GCF 
+[E::hts_open_format] Failed to open file "/home/stefan/Desktop/Bioinformatics/project1/data/aligned/GCF.sam" : No such file or directory
+samtools view: failed to open "/home/stefan/Desktop/Bioinformatics/project1/data/aligned/GCF.sam" for reading: No such file or directory
+rm: cannot remove '/home/stefan/Desktop/Bioinformatics/project1/data/aligned/GCF.sam': No such file or directory
+f1 = /home/stefan/Desktop/Bioinformatics/project1/rawdata/genomic_files/GCF_000001735.4_TAIR10.1_genomic.5.ht2
+f2 = /home/stefan/Desktop/Bioinformatics/project2/rawdata/genomic_files/GCF_000002735.4_TAIR20.2_genomic.5.ht2
+dir = /home/stefan/Desktop/Bioinformatics/project1/scripts
+genome = /home/stefan/Desktop/Bioinformatics/project1/rawdata/genomic_files/GCF_000001735.4_TAIR10.1_genomic.fna.gz
+outdir: /home/stefan/Desktop/Bioinformatics/project1/data/aligned 
+basename: missing operand
+Try 'basename --help' for more information.
+basename = 
+outfile = GCF 
+[E::hts_open_format] Failed to open file "/home/stefan/Desktop/Bioinformatics/project1/data/aligned/GCF.sam" : No such file or directory
+samtools view: failed to open "/home/stefan/Desktop/Bioinformatics/project1/data/aligned/GCF.sam" for reading: No such file or directory
+rm: cannot remove '/home/stefan/Desktop/Bioinformatics/project1/data/aligned/GCF.sam': No such file or directory
+f1 = /home/stefan/Desktop/Bioinformatics/project1/rawdata/genomic_files/GCF_000001735.4_TAIR10.1_genomic.6.ht2
+f2 = /home/stefan/Desktop/Bioinformatics/project2/rawdata/genomic_files/GCF_000002735.4_TAIR20.2_genomic.6.ht2
+dir = /home/stefan/Desktop/Bioinformatics/project1/scripts
+genome = /home/stefan/Desktop/Bioinformatics/project1/rawdata/genomic_files/GCF_000001735.4_TAIR10.1_genomic.fna.gz
+outdir: /home/stefan/Desktop/Bioinformatics/project1/data/aligned 
+basename: missing operand
+Try 'basename --help' for more information.
+basename = 
+outfile = GCF 
+[E::hts_open_format] Failed to open file "/home/stefan/Desktop/Bioinformatics/project1/data/aligned/GCF.sam" : No such file or directory
+samtools view: failed to open "/home/stefan/Desktop/Bioinformatics/project1/data/aligned/GCF.sam" for reading: No such file or directory
+rm: cannot remove '/home/stefan/Desktop/Bioinformatics/project1/data/aligned/GCF.sam': No such file or directory
+f1 = /home/stefan/Desktop/Bioinformatics/project1/rawdata/genomic_files/GCF_000001735.4_TAIR10.1_genomic.7.ht2
+f2 = /home/stefan/Desktop/Bioinformatics/project2/rawdata/genomic_files/GCF_000002735.4_TAIR20.2_genomic.7.ht2
+dir = /home/stefan/Desktop/Bioinformatics/project1/scripts
+genome = /home/stefan/Desktop/Bioinformatics/project1/rawdata/genomic_files/GCF_000001735.4_TAIR10.1_genomic.fna.gz
+outdir: /home/stefan/Desktop/Bioinformatics/project1/data/aligned 
+basename: missing operand
+Try 'basename --help' for more information.
+basename = 
+outfile = GCF 
+[E::hts_open_format] Failed to open file "/home/stefan/Desktop/Bioinformatics/project1/data/aligned/GCF.sam" : No such file or directory
+samtools view: failed to open "/home/stefan/Desktop/Bioinformatics/project1/data/aligned/GCF.sam" for reading: No such file or directory
+rm: cannot remove '/home/stefan/Desktop/Bioinformatics/project1/data/aligned/GCF.sam': No such file or directory
+f1 = /home/stefan/Desktop/Bioinformatics/project1/rawdata/genomic_files/GCF_000001735.4_TAIR10.1_genomic.8.ht2
+f2 = /home/stefan/Desktop/Bioinformatics/project2/rawdata/genomic_files/GCF_000002735.4_TAIR20.2_genomic.8.ht2
+dir = /home/stefan/Desktop/Bioinformatics/project1/scripts
+genome = /home/stefan/Desktop/Bioinformatics/project1/rawdata/genomic_files/GCF_000001735.4_TAIR10.1_genomic.fna.gz
+outdir: /home/stefan/Desktop/Bioinformatics/project1/data/aligned 
+basename: missing operand
+Try 'basename --help' for more information.
+basename = 
+outfile = GCF 
+[E::hts_open_format] Failed to open file "/home/stefan/Desktop/Bioinformatics/project1/data/aligned/GCF.sam" : No such file or directory
+samtools view: failed to open "/home/stefan/Desktop/Bioinformatics/project1/data/aligned/GCF.sam" for reading: No such file or directory
+rm: cannot remove '/home/stefan/Desktop/Bioinformatics/project1/data/aligned/GCF.sam': No such file or directory
+f1 = /home/stefan/Desktop/Bioinformatics/project1/rawdata/genomic_files/GCF_000001735.4_TAIR10.1_genomic.fna
+f2 = /home/stefan/Desktop/Bioinformatics/project2/rawdata/genomic_files/GCF_000002735.4_TAIR20.2_genomic.fna
+dir = /home/stefan/Desktop/Bioinformatics/project1/scripts
+genome = /home/stefan/Desktop/Bioinformatics/project1/rawdata/genomic_files/GCF_000001735.4_TAIR10.1_genomic.fna.gz
+outdir: /home/stefan/Desktop/Bioinformatics/project1/data/aligned 
+basename: missing operand
+Try 'basename --help' for more information.
+basename = 
+outfile = GCF 
+[E::hts_open_format] Failed to open file "/home/stefan/Desktop/Bioinformatics/project1/data/aligned/GCF.sam" : No such file or directory
+samtools view: failed to open "/home/stefan/Desktop/Bioinformatics/project1/data/aligned/GCF.sam" for reading: No such file or directory
+rm: cannot remove '/home/stefan/Desktop/Bioinformatics/project1/data/aligned/GCF.sam': No such file or directory
+f1 = /home/stefan/Desktop/Bioinformatics/project1/rawdata/genomic_files/GCF_000001735.4_TAIR10.1_genomic.fna.gz
+f2 = /home/stefan/Desktop/Bioinformatics/project2/rawdata/genomic_files/GCF_000002735.4_TAIR20.2_genomic.fna.gz
+dir = /home/stefan/Desktop/Bioinformatics/project1/scripts
+genome = /home/stefan/Desktop/Bioinformatics/project1/rawdata/genomic_files/GCF_000001735.4_TAIR10.1_genomic.fna.gz
+outdir: /home/stefan/Desktop/Bioinformatics/project1/data/aligned 
+basename: missing operand
+Try 'basename --help' for more information.
+basename = 
+outfile = GCF 
+[E::hts_open_format] Failed to open file "/home/stefan/Desktop/Bioinformatics/project1/data/aligned/GCF.sam" : No such file or directory
+samtools view: failed to open "/home/stefan/Desktop/Bioinformatics/project1/data/aligned/GCF.sam" for reading: No such file or directory
+rm: cannot remove '/home/stefan/Desktop/Bioinformatics/project1/data/aligned/GCF.sam': No such file or directory
+f1 = /home/stefan/Desktop/Bioinformatics/project1/rawdata/genomic_files/GCF_000001735.4_TAIR10.1_genomic.gff.gz
+f2 = /home/stefan/Desktop/Bioinformatics/project2/rawdata/genomic_files/GCF_000002735.4_TAIR20.2_genomic.gff.gz
+dir = /home/stefan/Desktop/Bioinformatics/project1/scripts
+genome = /home/stefan/Desktop/Bioinformatics/project1/rawdata/genomic_files/GCF_000001735.4_TAIR10.1_genomic.fna.gz
+outdir: /home/stefan/Desktop/Bioinformatics/project1/data/aligned 
+basename: missing operand
+Try 'basename --help' for more information.
+basename = 
+outfile = GCF 
+[E::hts_open_format] Failed to open file "/home/stefan/Desktop/Bioinformatics/project1/data/aligned/GCF.sam" : No such file or directory
+samtools view: failed to open "/home/stefan/Desktop/Bioinformatics/project1/data/aligned/GCF.sam" for reading: No such file or directory
+rm: cannot remove '/home/stefan/Desktop/Bioinformatics/project1/data/aligned/GCF.sam': No such file or directory
+f1 = /home/stefan/Desktop/Bioinformatics/project1/rawdata/genomic_files/hisat2_1.log
+f2 = /home/stefan/Desktop/Bioinformatics/project2/rawdata/genomic_files/hisat2_2.log
+dir = /home/stefan/Desktop/Bioinformatics/project1/scripts
+genome = /home/stefan/Desktop/Bioinformatics/project1/rawdata/genomic_files/GCF_000001735.4_TAIR10.1_genomic.fna.gz
+outdir: /home/stefan/Desktop/Bioinformatics/project1/data/aligned 
+basename: missing operand
+Try 'basename --help' for more information.
+basename = 
+outfile = hisat2 
+[E::hts_open_format] Failed to open file "/home/stefan/Desktop/Bioinformatics/project1/data/aligned/hisat2.sam" : No such file or directory
+samtools view: failed to open "/home/stefan/Desktop/Bioinformatics/project1/data/aligned/hisat2.sam" for reading: No such file or directory
+rm: cannot remove '/home/stefan/Desktop/Bioinformatics/project1/data/aligned/hisat2.sam': No such file or directory
