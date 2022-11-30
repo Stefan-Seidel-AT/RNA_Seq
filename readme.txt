@@ -15,7 +15,7 @@
 
 "RNA_seq_image.sh" starts a docker container for R to analize data preprocessed by the scripts in the folder "\scripts"
 
- "\scripts" contains a file containin links for download of the data, and scripts for processing the data 
+ "\scripts" contains a file containing links for download of the data, and scripts for processing the data 
 
 
  
